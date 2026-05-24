@@ -16,7 +16,7 @@
 
 ## About Me
 
-I'm a Computer Science undergraduate at **Texas State University** (4.0 GPA, Honors College) with a minor in Data Analytics. My work sits at the intersection of **machine learning, intelligent transportation systems, and scientific computing** — from simulating autonomous vehicle parking to building full-stack data pipelines using NASA satellite feeds.
+I'm a Computer Science undergraduate at **Texas State University** (4.0 GPA, Honors College) with a minor in Data Analytics. My work sits at the intersection of **machine learning, intelligent transportation systems, and computational biology** — from simulating autonomous vehicle parking to building full-stack data pipelines using NASA satellite feeds.
 
 I'm an **AI Ambassador** at Texas State, an active researcher on two published-track projects, and a self-taught builder who ships production tools in hackathons.
 
