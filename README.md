@@ -7,16 +7,16 @@
 ---
 
 ## 🛠️ Tech Stack & Tools
-**Languages:** Python, C++, SQL, JavaScript
-**Data & ML:** Pandas, NumPy, Scikit-Learn, PyTorch 
-**Backend:** FastAPI, Django
-**Security:** TryHackMe, Google Cybersecurity Certificate
+
+* **Languages:** Python, C++, SQL, JavaScript
+* **Data & ML:** Pandas, NumPy, Scikit-Learn, PyTorch 
+* **Backend:** FastAPI, Django
+* **Security:** TryHackMe, Google Cybersecurity Certificate
 
 ---
 
 ## 📊 GitHub Analytics
 
-<!-- These are the contribution bars. Replace YOUR_GITHUB_USERNAME below! -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=siamliam12&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siamliam12&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
